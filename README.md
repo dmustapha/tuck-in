@@ -12,7 +12,7 @@ Tuck In is a six-screen ritual for turning overlooked fridge ingredients into a 
 [![Tests](https://img.shields.io/badge/tests-9_passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Live:** [tuck-in.vercel.app](https://tuck-in.vercel.app)
+**Live:** [tuck-in-app.vercel.app](https://tuck-in-app.vercel.app)
 
 ---
 
@@ -20,7 +20,7 @@ Tuck In is a six-screen ritual for turning overlooked fridge ingredients into a 
 
 ## Live Demo
 
-**[Open Tuck In](https://tuck-in.vercel.app)**
+**[Open Tuck In](https://tuck-in-app.vercel.app)**
 
 Choose three cards on the fridge shelf, continue through the board and lunchbox reveal, then restart the ritual. The complete loop runs in the browser without sign-in.
 
@@ -91,7 +91,7 @@ npm test
 
 ## Try It (2 minutes)
 
-1. Open [Tuck In](https://tuck-in.vercel.app).
+1. Open [Tuck In](https://tuck-in-app.vercel.app).
 2. Select three ingredients from the fridge shelf.
 3. Continue to the board and confirm the same three cards appear.
 4. Follow the constraint and open the lunchbox reveal.
