@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 128" role="img" aria-labelledby="title">
+  <title id="title">Tuck In combined logo</title>
+  <rect x="12" y="34" width="94" height="68" rx="20" fill="#d85a3f"/>
+  <rect x="38" y="20" width="42" height="21" rx="10" fill="#d85a3f"/>
+  <rect x="29" y="53" width="60" height="32" rx="14" fill="#ffe4c6"/>
+  <circle cx="48" cy="68" r="4" fill="#27241f"/>
+  <circle cx="70" cy="68" r="4" fill="#27241f"/>
+  <path d="M47 77c8 7 16 7 24 0" fill="none" stroke="#27241f" stroke-linecap="round" stroke-width="4"/>
+  <text x="127" y="80" fill="#27241f" font-family="Georgia, serif" font-size="68" font-weight="700" letter-spacing="-5">tuck</text>
+  <text x="313" y="80" fill="#d85a3f" font-family="Georgia, serif" font-size="68" font-style="italic" font-weight="700" letter-spacing="-5">in</text>
+  <path d="M129 98h292" fill="none" stroke="#597a4c" stroke-linecap="round" stroke-width="7"/>
+</svg>

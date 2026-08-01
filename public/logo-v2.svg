@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 128" role="img" aria-labelledby="title">
+  <title id="title">Tuck In wordmark</title>
+  <text x="16" y="82" fill="#27241f" font-family="Georgia, serif" font-size="72" font-weight="700" letter-spacing="-5">tuck</text>
+  <text x="205" y="82" fill="#d85a3f" font-family="Georgia, serif" font-size="72" font-style="italic" font-weight="700" letter-spacing="-5">in</text>
+  <path d="M18 99h309" fill="none" stroke="#597a4c" stroke-linecap="round" stroke-width="7"/>
+</svg>

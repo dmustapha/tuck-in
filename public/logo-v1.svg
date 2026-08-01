@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Tuck In lunchbox mark</title>
+  <rect x="18" y="37" width="92" height="67" rx="20" fill="#d85a3f"/>
+  <rect x="43" y="24" width="42" height="20" rx="10" fill="#d85a3f"/>
+  <rect x="34" y="55" width="60" height="31" rx="14" fill="#ffe4c6"/>
+  <circle cx="53" cy="70" r="4" fill="#27241f"/>
+  <circle cx="75" cy="70" r="4" fill="#27241f"/>
+  <path d="M52 78c8 7 16 7 24 0" fill="none" stroke="#27241f" stroke-linecap="round" stroke-width="4"/>
+</svg>

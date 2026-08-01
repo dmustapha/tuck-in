@@ -1,0 +1,41 @@
+# Dependencies and build artifacts
+node_modules/
+dist/
+build/
+output/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Local configuration
+.env
+.env.local
+.env*.local
+.vercel/
+.playwright-cli/
+.DS_Store
+
+# Local pipeline records
+.claude/
+docs/context/
+docs/prompts/
+docs/plans/
+research/
+tasks/
+PULSE.md
+PRD.md
+ARCHITECTURE.md
+PLAN.md
+BUILD-REPORT.md
+CRITIQUE-REPORT.md
+VERIFY-REPORT.md
+DEMO-REHEARSAL.md
+pipeline-log.md
+.conductor-state.json
+.build-state.json
+.deploy-state.json
+.*-state.json
+config.json
+.watchdog-last-alert
+screenshots/
+submission/

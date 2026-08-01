@@ -1,0 +1,22 @@
+{
+  "name": "Tuck In",
+  "tagline": "Three overlooked things. One good tomorrow.",
+  "colorMode": "light-only",
+  "brandColor": "#d85a3f",
+  "ink": ["#ece8e0", "#f7f0e4", "#fff9ef", "#fff8ec", "#27241f"],
+  "semantic": {
+    "success": "#597a4c",
+    "warning": "#f3df9c",
+    "danger": "#d85a3f"
+  },
+  "fonts": {
+    "display": "Georgia",
+    "body": "Inter",
+    "mono": "ui-monospace"
+  },
+  "radii": { "sm": 12, "md": 18, "lg": 24, "xl": 32 },
+  "shadowPhilosophy": "soft-elevation",
+  "signatureElement": "A coral lunchbox with a quiet face, paired with a moss underline.",
+  "accent": "#d85a3f",
+  "logoPath": "public/logo.svg"
+}
